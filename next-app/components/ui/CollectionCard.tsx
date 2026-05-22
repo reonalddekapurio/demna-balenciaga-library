@@ -17,6 +17,5 @@ export function CollectionCard( { collection }: { collection: Collection }) {
         <h3 className="text-md mt-2">{collection.name}</h3>
       </Link>
     </div>
-
   )
 }
