@@ -1,6 +1,8 @@
 'use client';
 
 import { Button } from "../components/ui/Button";
+import { CollectionSection } from "../components/layout/CollectuonSection";
+
 
 export default function Home() {
   return (
@@ -11,7 +13,7 @@ export default function Home() {
         <Button label="GO BALENCIAGA" link="https://www.balenciaga.com/ja-jp" />
       </div>
       </section>
-
+      <CollectionSection />
     </main>
   );
 }

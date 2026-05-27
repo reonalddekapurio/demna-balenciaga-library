@@ -1,0 +1,16 @@
+[
+  {
+    "id":"26ss",
+    "name" :"2026SS",
+    "year": 2026,
+    "season": "26ss",
+    "coverImage": "https://pub-45b1ede9206c440ca72dbf314b9c1ffb.r2.dev/26ss/26ss-1.webp"
+  },
+  {
+    "id": "25awcouture",
+    "name" :"Paris 2025AW Couture",
+    "year": 2025,
+    "season": "25awcouture",
+    "coverImage": "https://pub-45b1ede9206c440ca72dbf314b9c1ffb.r2.dev/25aw-couture/25aw-couture-1.webp"
+  }
+]
