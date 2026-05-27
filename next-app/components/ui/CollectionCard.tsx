@@ -13,8 +13,9 @@ export function CollectionCard( { collection }: { collection: Collection }) {
           alt={collection.name}
           width={170}
           height={179}
+          className="object-cover w-44 h-44"
         />
-        <h3 className="text-md mt-2">{collection.name}</h3>
+        <h3 className="text-center text-xs mt-2">{collection.name}</h3>
       </Link>
     </div>
   )
