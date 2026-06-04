@@ -12,5 +12,19 @@
     "year": 2025,
     "season": "25awcouture",
     "coverImage": "https://pub-45b1ede9206c440ca72dbf314b9c1ffb.r2.dev/25aw-couture/25aw-couture-1.webp"
+  },
+  {
+    "id": "25aw",
+    "name" :"2025AW",
+    "year": 2025,
+    "season": "25aw",
+    "coverImage": "https://pub-45b1ede9206c440ca72dbf314b9c1ffb.r2.dev/25aw/25aw-1.jpg"
+  },
+  {
+    "id": "25aw2",
+    "name" :"2025AW2",
+    "year": 2025,
+    "season": "25aw2",
+    "coverImage": "https://pub-45b1ede9206c440ca72dbf314b9c1ffb.r2.dev/25aw2/25aw2-1.jpg"
   }
 ]
