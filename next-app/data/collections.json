@@ -26,5 +26,12 @@
     "year": 2025,
     "season": "25aw2",
     "coverImage": "https://pub-45b1ede9206c440ca72dbf314b9c1ffb.r2.dev/25aw2/25aw2-1.jpg"
+  },
+  {
+    "id": "25ss",
+    "name" :"2025SS",
+    "year": 2025,
+    "season": "25ss",
+    "coverImage": "https://pub-45b1ede9206c440ca72dbf314b9c1ffb.r2.dev/25ss/25ss-1.jpg"
   }
 ]
